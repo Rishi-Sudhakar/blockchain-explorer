@@ -40,7 +40,7 @@ or
 ```bash
 npm run
 ```
-This will start the React development server in port 3000.(In my case it was 3001, as 3000 was busy)
+This will start the React development server in port 3000.(In my case it was 3001, as 3000 was busy) Check the code for the server port.
 
 <img width="682" alt="Screenshot 2024-06-06 at 4 44 31 AM" src="https://github.com/Rishi-Sudhakar/blockchain-explorer/assets/79398572/81b445aa-e875-41ea-8cbf-febc0d06c05d">
 
